@@ -6,11 +6,15 @@ This style guide is a reference for anyone who writes words at [Zapier](https://
 
 We're a remote company, and clear written communication is crucial to our success. As such, everyone at Zapier writes. But talking to coworkers is different than talking to customers. 
 
-This style guide targets the latter kind of conversation. It covers the foundations of Zapier's voice and tone, plus goals for content. We'll also dig into some nitty-gritty grammar notes.
+This style guide targets the latter kind of conversation. It covers the foundations of Zapier's voice and tone, plus the goals for our content. We'll also dig into some nitty-gritty grammar notes.
 
-<<!--something about how you can make suggestions-->
+Want to make a suggestion, or use this as a template for your own style guide? Create a pull request or fork this repository on GitHub.
+
+[Zapier's Voice, Tone, and Style Guide on GitHub](https://zapier.com/)
+
+<!--something about how you can make suggestions once we have the site up and running-->
 
 ## If you work somewhere else
 
-&#128075; Thanks for stopping by! We hope this is helpful 
+&#128075; Thanks for stopping by! We hope this is a helpful look into how we work at Zapier. We drew major inspiration from [MailChimp's Content Style Guide](http://styleguide.mailchimp.com/) while putting this together, so be sure to check in with them, too.
 
