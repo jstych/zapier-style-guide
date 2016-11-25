@@ -35,7 +35,7 @@ When writing other content, whether or not it's about Zapier itself, avoid these
 - crazy, insane, nuts, psycho, or similar words to describe a person
 - any sort of profanity, even in a direct quote (let's keep it clean)
 
-Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask your teammates if you're unsure about  specific situation.
+Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask your teammates if you're unsure about a specific situation.
 
 ## Tricky Terms
 
