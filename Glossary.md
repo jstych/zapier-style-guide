@@ -26,14 +26,14 @@ When in doubt, skew towards understanding. If an app lets you create "things", c
 
 When talking about Zapier, avoid these:
 
-- sync (Zapier doesn't truly "sync" data between two apps)
-- export (this implies that Zapier can tap into old data)
+- Sync (Zapier doesn't truly "sync" data between two apps)
+- Export (this implies that Zapier can tap into old data)
 
 When writing other content, whether or not it's about Zapier itself, avoid these:
 
-- young, old, elderly, tween, or any other word describing someone's age
-- crazy, insane, nuts, psycho, or similar words to describe a person
-- any sort of profanity, even in a direct quote (let's keep it clean)
+- Young, old, elderly, tween, or any other word describing someone's age
+- Crazy, insane, nuts, psycho, or similar words to describe a person
+- Any sort of profanity, even in a direct quote (let's keep it clean)
 
 Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask your teammates if you're unsure about a specific situation.
 
@@ -42,7 +42,7 @@ Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask yo
 Sometimes, grammar is negotiable. Here are some tricky words and phrases, and where we stand on styling them.
 
 - eCommerce
+- eBook
 - sign up (verb), signup (noun or adjective)
 - log in (verb), login (noun or adjective)
-- ok (not OK)
-- 
+- ok (not OK or okay)
