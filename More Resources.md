@@ -1,6 +1,6 @@
 ## More Resources
 
-Our voice, tone, and style guide was crafted on the foundation that others laid for us. If you want to learn more about creating clear, helpful content, here are some places to start.
+Our voice, tone, and style guides were crafted on the foundation that other communication-conscious teams laid for us. If you want to learn more about creating clear, helpful content, here are some places to start.
 
 ### On Writing For the Web
 
