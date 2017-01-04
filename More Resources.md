@@ -2,8 +2,6 @@
 
 Our voice, tone, and style guides were crafted on the foundation that other communication-conscious teams laid for us. If you want to learn more about creating clear, helpful content, here are some places to start.
 
-
-
 ### On Writing For the Web
 
 - [Nicely Said](http://www.nicelysaid.co/), a book by Nicole Fenton and Kate Kiefer Lee
