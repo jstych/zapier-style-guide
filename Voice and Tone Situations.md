@@ -80,11 +80,23 @@ Filters let you choose if and when a Zap triggers based on conditions you set. B
 
 ### What the User is Thinking
 
+Zapier made an update to one of my apps. I wonder if it's the feature I've been waiting for!
+
 ### What the User is Feeling
+
+- Interest
+- Curiosity
+- Excitement
 
 ### Tips
 
+- Be clear about what's new. 
+- Explain how this update benefits the reader to get them excited. 
+- Use this as an opportunity to reeducate the reader on Zapier's core features and benefits. 
+
 ### What Zapier says
+
+This new Slack Trigger activates whenever you star a message, so you can send its content to a to-do list, spreadsheet, or note automatically.
 
 # Main Blog
 
