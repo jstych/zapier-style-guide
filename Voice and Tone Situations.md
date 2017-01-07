@@ -146,11 +146,24 @@ Stress, frustration, confusion
 
 ### What the User is Thinking
 
+Why isn't this working? None of my data is where it should be.
+
 ### What the User is Feeling
+
+- Frustration
+- Confusion
+- Panic
 
 ### Tips
 
+- Be direct and calm. Don't joke around.
+- Explain what went wrong and how we plan to prevent this in the future. 
+- Avoid jargon. Use simple terms, but try not to sound like a robot.
+- Offer a clear next step or resolution. 
+
 ### What Zapier says
+
+Yesterday, at 2 p.m. CST, an issue with one of our servers caused some Zaps to miss tasks. Our engineers fixed the problem and Zaps are running smoothly again, but you'll need to replay the following tasks.
 
 # Success Message
 
