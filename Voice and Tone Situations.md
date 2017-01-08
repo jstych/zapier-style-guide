@@ -122,11 +122,24 @@ This new Slack Trigger activates whenever you star a message, so you can send it
 
 ### What the User is Thinking
 
+I can't wait to see what Zapier's creating now!
+
 ### What the User is Feeling
+
+- Excitement
+- Trust
+- Curiosity
 
 ### Tips
 
+- Aim to make people smile. 
+- Feel free to be funny and informal. 
+- That said, match your reader's tone in conversation. Don't reply with a gif when someone is voicing a concern.
+- Avoid current events and controversial topics. Be appropriate. 
+
 ### What Zapier says
+
+Psst... Hey, you, we've got a Google search cheat sheet you might want to peek at: http://zpr.io/PqicM
 
 # Error Message
 
@@ -136,11 +149,19 @@ What went wrong? I really need to get this Zap set up. How can I fix this?
 
 ### What the User is Feeling
 
-Stress, frustration, confusion
+- Stress
+- Frustration
+- Confusion
 
 ### Tips
 
+- Explain the cause of the error right away.
+- Use clear language, and avoid scary words like "warning"
+- Tell them what to do next.
+
 ### What Zapier says
+
+Shoot, we couldn't connect to your Slack account. Double-check your login information, or explore common problems in our help docs. 
 
 # Outage Alert
 
