@@ -122,11 +122,24 @@ This new Slack Trigger activates whenever you star a message, so you can send it
 
 ### What the User is Thinking
 
+I can't wait to see what Zapier's creating now!
+
 ### What the User is Feeling
+
+- Excitement
+- Trust
+- Curiosity
 
 ### Tips
 
+- Aim to make people smile. 
+- Feel free to be funny and informal. 
+- That said, match your reader's tone in conversation. Don't reply with a gif when someone is voicing a concern.
+- Avoid current events and controversial topics. Be appropriate. 
+
 ### What Zapier says
+
+Psst... Hey, you, we've got a Google search cheat sheet you might want to peek at: http://zpr.io/PqicM
 
 # Error Message
 
