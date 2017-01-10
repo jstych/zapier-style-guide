@@ -1,12 +1,30 @@
 # Zapier Glossary
 
-Let's get granular about the words we use—and the ones we don't.
+Let's get granular about the words we use, and the ones we don't.
 
 ## Zapier-Specific Concepts
 
+Like many SaaS apps, Zapier has its own lexicon for explaining the product. We try to keep things as simple as possible, but here are some terms that hold specific meaning in our app.
+
 ### Zap
 
+A Zap is a workflow made up of apps, one Trigger, and one or more Actions. Each piece of a Zap is called a step. Zaps connect your apps
+
+> "To save time, set up a Zap that automatically tweets out blog posts as they're published."
+
+*Step Notes*: Zap should always be capitalized. For inexperienced users, it's helpful to call Zaps "workflows".
+
 ### Task
+
+Zaps automate Tasks. A Task is counted every time Zapier does something on your behalf. If you set up a Zap that automatically sends emails, each time we send an email, it counts as a Task.
+
+> "Last week, this Zap automated 126 Tasks for you."
+
+*Style Notes*: Task should be capitalized only when referring to an item that Zapier automated. For example, in this sentence, "task" should not be capitalized: 
+
+> "Erin wanted to take that task off her plate, so she used Zapier."
+
+Make sure you avoid saying things like "Zaps complete Actions." While this is technically true, it creates some confusion around our pricing terms.
 
 ### Trigger, Action, and Search Action
 
