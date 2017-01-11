@@ -1,3 +1,3 @@
-# zapier-style-guide
+# Zapier's Content Handbook
 
-The Zapier Style Guide is a document that we use to keep our voice and tone consistent across the many places where we create content. 
+The Zapier Content Handbook is a document that we use to keep our content consistent. In it, we cover voice and tone, grammar, and more. 
