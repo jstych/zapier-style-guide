@@ -1,16 +1,14 @@
 ## Voice and Tone
 
-Whenever you write, it's important to think about who's reading. This section covers the difference between voice and tone, why they're important to our work at Zapier, and how the mechanics apply to the content you create.
-
-### Why Are Voice and Tone Important?
+When you write, it's important to be conscious of what you say and how you say it. This section covers the difference between voice and tone, why they're important to our work at Zapier, and how to apply them in your work.
 
 ### What's the Difference Between Voice and Tone?
 
-Voice encompasses the personality of your writing. Our voice is something that's uniquely Zapier. It brings life to our content, . Voice doesn't change much.
+Voice embodies the personality of your writing. Our voice is something that's uniquely Zapier. It brings life to our content, and helps people connect with us on a personal level. Voice rarely changes.
 
-Tone, on the other hand, changes constantly. It adapts to the situation—and might even involve suppressing your voice. 
+Tone changes constantly. It conforms to the situation based on the mood of the person you're writing to—and might even involve suppressing your voice. For example, if you're talking to a friend about an upcoming vacation, your tone will be lighter than if you were discussing a car accident. 
 
-Think of it this way: If you're praising your dog doing a trick, or scolding him for getting into the trash, you're going to use two different tones. 
+Voice is about you, tone is about your readers. A strong voice helps people connect with Zapier, and the right tone shows people you're listening.
 
 ## Voice at Zapier
 
@@ -18,11 +16,20 @@ At Zapier, we want computers to do more, so people can focus on the human side o
 
 Our voice is warm, conversational, clear, and encouraging. We don't meander into tangents, or talk down to our readers. Our goal is to educate and empower people without confusing them.
 
-Here are some keystones of Zapier's voice:
+Zapier's voice is:
 
-- 
+- Encouraging but not pushy
+- Helpful but not domineering
+- Relaxed but not indifferent
+- Adept but not cocky
+- Fun but not cute
+- Clever but not ditsy
 
 ## Tone at Zapier
+
+Whenever you write, it's important to think about who's reading. What is the reader feeling, and why are they here?
+
+But online, you don't get cues like body language or inflection to help you set the right tone. 
 
 ## Style Tips
 
