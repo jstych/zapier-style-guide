@@ -72,6 +72,9 @@ Filters let you choose if and when a Zap triggers based on conditions you set. B
 
 ### What the User is Feeling
 
+- Trust
+- Anticipation
+
 ### Tips
 
 ### What Zapier says
@@ -102,7 +105,13 @@ This new Slack Trigger activates whenever you star a message, so you can send it
 
 ### What the User is Thinking
 
+Zapier always provides top-notch content about using apps at work.
+
 ### What the User is Feeling
+
+- Trust
+- Interest
+- Optimism
 
 ### Tips
 
@@ -112,7 +121,14 @@ This new Slack Trigger activates whenever you star a message, so you can send it
 
 ### What the User is Thinking
 
+Zapier looks like it might solve my problem. I've heard a lot about automation, and I'm interested in trying it out.
+
 ### What the User is Feeling
+
+- Curiosity
+- Anticipation
+- Interest
+- Optimism
 
 ### Tips
 
@@ -126,7 +142,7 @@ I can't wait to see what Zapier's creating now!
 
 ### What the User is Feeling
 
-- Excitement
+- Joy
 - Trust
 - Curiosity
 
@@ -185,13 +201,3 @@ Why isn't this working? None of my data is where it should be.
 ### What Zapier says
 
 Yesterday, at 2 p.m. CST, an issue with one of our servers caused some Zaps to miss tasks. Our engineers fixed the problem and Zaps are running smoothly again, but you'll need to replay the following tasks.
-
-# Success Message
-
-### What the User is Thinking
-
-### What the User is Feeling
-
-### Tips
-
-### What Zapier says
