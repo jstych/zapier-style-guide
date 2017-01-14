@@ -21,15 +21,17 @@ Zapier's voice is:
 - Encouraging but not pushy
 - Helpful but not domineering
 - Relaxed but not indifferent
-- Adept but not cocky
-- Fun but not cute
-- Clever but not ditsy
+- Sharp but not cocky
+- Fun but not campy
+- Clever but not crude
 
 ## Tone at Zapier
 
-Whenever you write, it's important to think about who's reading. What is the reader feeling, and why are they here?
+Zapier's default tone is friendly and informal, but never let that get in the way of important info. Clarity and context always beat charm. 
 
-But online, you don't get cues like body language or inflection to help you set the right tone. 
+Whenever you write, think about who's reading. What is the reader feeling, and why are they here? Are they excited about setting up a new Zap? Or are the frustrated that their Twitter account won't connect?
+
+Unlike voice, tone changes to fit the situation. Anticipate your reader's mood, then adjust your tone to meet that mood. Remember that online you don't get cues like inflection to help you set the right tone—make an extra effort to understand their point of view.
 
 ## Style Tips
 
