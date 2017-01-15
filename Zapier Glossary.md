@@ -4,7 +4,7 @@ Let's get granular about the words we use, and the ones we don't.
 
 ## Zapier-Specific Concepts
 
-Like many SaaS apps, Zapier has its own lexicon for explaining the product. We try to keep things as simple as possible, but here are some terms that hold specific meaning in our app.
+Like many apps, Zapier has its own lexicon for explaining the product. We try to keep things as simple as possible, but here are some terms that hold specific meaning in our app.
 
 ### Zap
 
@@ -28,7 +28,23 @@ Make sure you avoid saying things like "Zaps complete Actions." While this is te
 
 ### Trigger, Action, and Search Action
 
+Zaps are made up of building blocks called Triggers and Actions. There's also a special type of Action called a Search Action.
+
+The **Trigger** is the first step of any Zap. It's the signal that tells us when automatically complete the **Actions** in a workflow.  Here's the process in sentence form: 
+
+*When this Trigger happens, do this Action, (then this Action, etc.)*
+
+Actions generally create or update something in an app, and Triggers tell them when to do it. 
+
+**Search Actions** are different. They look up existing data in an app, and return it so you can use it in a following step.
+
+*Style Notes:* Capitalize Trigger, Action and Search Action when they're used as nouns. Leave them lowercase, though, if they're used as verbs.
+
+> "This Zap triggers whenever someone fills out my typeform. Then, I use a MailChimp Action to add their email address to my mailing list."
+
 ### Multi-Step Zaps
+
+A Multi-Step Zap is any Zap with three or more steps. 
 
 ### Autoreplay
 
