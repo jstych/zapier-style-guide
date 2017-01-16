@@ -80,3 +80,7 @@ Sometimes, grammar is negotiable. Here are some tricky words and phrases, and wh
 - sign up (verb), signup (noun or adjective)
 - log in (verb), login (noun or adjective)
 - ok (not OK or okay)
+
+For more, check out the Word List in our Grammar and Mechanics section.
+
+<!--add link to grammar and mechanics section-->
