@@ -8,7 +8,7 @@ For headline levels 1 and 2 (H1 and H2) we follow general title case guidelines:
 - Capitalize words four letters and longer
 - Capitalize adjectives (orange, helpful), adverbs (quickly, easily), nouns (dog, truck), pronouns (she, our, themselves), verbs (run, connect—don't forget helping verbs like is, have, and are), and subordinate conjunctions (once, as, if, when they connect unequal parts of a sentence)
 - Capitalize the first word after a colon, no matter what
-- Lowercase articles (a, this, the, that), coordinating conjunctions (and, but, or), and prepositions with 5+ letters (from, over, with, through)
+- Lowercase articles (a, this, the, that), coordinating conjunctions (and, but, or), and prepositions with fewer than 5 letters (from, over, with—but not through, and without)
 - Lowercase the "to" in an infinitive (For example, "How to Play Guitar")
 - Use numerals for all numbers; never write them out
 - Use single quotes for any quoted piece of text
