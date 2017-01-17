@@ -82,12 +82,12 @@ HEADER
 ********************************/
 
 #header-bumper {
-	height: 87px;
+	height: 62px;
 }
 
 #site-header {
 	width: 100%;
-	background: #FF4A00;
+	background: #FD7622	;
 	text-align: left;
 	position: fixed;
 	top: 0;
@@ -99,7 +99,7 @@ HEADER
 	width: 90%;
 	max-width: 1000px;
 	margin: 0 auto;
-	padding: 10px 20px;
+	padding: 15px 20px;
 }
 
 #site-homepage-link {
@@ -108,7 +108,7 @@ HEADER
 }
 
 #zapier-logo {
-	width: 40px;
+	width: 30px;
 	margin-right: 20px;
 	vertical-align: middle;
 	display: inline-block;
@@ -120,7 +120,29 @@ HEADER
 	vertical-align: middle;
 	color: #ffffff;
 	font-size: 20px;
-	font-family: 'VT323';
+	font-family: 'Overpass Mono';
+	font-weight: light;
 }
+
+/********************************
+BODY
+********************************/
+
+#site-body {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+/********************************
+FOOTER
+********************************/
+
+footer {
+	width: 90%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
 
 
