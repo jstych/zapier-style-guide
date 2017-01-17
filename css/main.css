@@ -1,0 +1,126 @@
+/********************************
+CLEAR
+********************************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/********************************
+CORE
+********************************/
+
+html body {
+	width: 100%;
+	height: 100%;
+}
+
+div {
+	display: block;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1, h2, h3, p, a {
+	line-height: 1.6em;
+	color: #354147;
+	font-family: 'Open Sans';
+}
+
+a, p {
+	margin: 20px 0;
+}
+
+a {
+	color: #499DF3;
+}
+
+/********************************
+HEADER
+********************************/
+
+#header-bumper {
+	height: 87px;
+}
+
+#site-header {
+	width: 100%;
+	background: #FF4A00;
+	text-align: left;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+}
+
+.header-bar {
+	width: 90%;
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 10px 20px;
+}
+
+#site-homepage-link {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#zapier-logo {
+	width: 40px;
+	margin-right: 20px;
+	vertical-align: middle;
+	display: inline-block;
+	float: left;
+}
+
+#site-title {
+	display: inline-block;
+	vertical-align: middle;
+	color: #ffffff;
+	font-size: 20px;
+	font-family: 'VT323';
+}
+
+
