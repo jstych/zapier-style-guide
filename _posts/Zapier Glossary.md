@@ -42,6 +42,12 @@ Actions generally create or update something in an app, and Triggers tell them w
 
 > "This Zap triggers whenever someone fills out my typeform. Then, I use a MailChimp Action to add their email address to my mailing list."
 
+### Premium Apps
+
+A handful of integrations on our platform are marked as [Premium Apps](https://zapier.com/zapbook/#sort=premium&filter=all). You need a paid account to use these apps because they're more complicated to support. 
+
+*Style Notes:* When talking about Premium Apps, capitalize both words. If you're displaying a Premium App in our app, do your best to mark it as "premium" so users aren't surprised later.
+
 ### Multi-Step Zaps
 
 A Multi-Step Zap is any Zap with three or more steps. 
