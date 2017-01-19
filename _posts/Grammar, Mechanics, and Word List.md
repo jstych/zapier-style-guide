@@ -23,6 +23,8 @@ For headline levels 3 and below (H3, H4, H5) we follow sentence case rules:
 
 ### Quoting People and Publications
 
+<!--might need to split this into longform and shortform sections-->
+
 When you're quoting a person or publication in a piece of content, make sure that quote is accurately attributed. Use present tense (says, not said): 
 
 > "I love using Zapier to automate my work," Jimmy says.
