@@ -21,6 +21,26 @@ For headline levels 3 and below (H3, H4, H5) we follow sentence case rules:
 - Capitalize the first word word after a colon, no matter what
 - Capitalize titles and proper nouns
 
+### Quoting People and Publications
+
+When you're quoting a person or publication in a piece of content, make sure that quote is accurately attributed. Use present tense (says, not said): 
+
+> "I love using Zapier to automate my work," Jimmy says.
+
+Try to introduce the quoted person before you quote them. This:
+
+> Selena, a manager at Galactic Donuts, uses Zapier to track orders. "It makes my life so much easier," she says.
+
+Is preferred to: 
+
+> "Zapier makes my life so much easier," Selena, a manager at Galactic Donuts, says.
+
+Keep the focus on the person who said the quote by placing their name directly after it, before "says". Use "he", "she", or "they" 
+
+<!--do we want to use first or last names?-->
+
+Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
+
 ## Word List
 
 <!--this could maybe be its own page. But I kind of like the idea of having a fully searchable index of grammar-related items.-->

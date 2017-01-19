@@ -35,9 +35,10 @@ Unlike voice, tone changes to fit the situation. Anticipate your reader's mood, 
 
 ## Style Tips
 
-Keep these mechanics in mind when you're writing for Zapier:
+Keep these goals in mind when you're writing for Zapier:
 
 <!--I would like to make these links to the grammar and mechanics doc-->
 
 - **Avoid Slang and Jargon.** Write in plain English, focus on clarity.
-- **Be Light, Be Encouraging.** Use positive language to spur readers forward. "Connect your Twitter account to build this Zap", **not** "You can't build this Zap unless you connect your Twitter account".
+- **Be Encouraging.** Use positive language to spur readers forward. "Connect your Twitter account to build this Zap", **not** "You can't build this Zap unless you connect your Twitter account".
+- **Edit, then Edit Again.** Take time to trim fat from your sentences. Avoid unneeded adjectives and adverbs. Favor short words over long ones.
