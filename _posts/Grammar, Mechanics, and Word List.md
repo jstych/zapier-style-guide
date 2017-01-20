@@ -1,5 +1,38 @@
 ## Mechanics
 
+### Words to Avoid
+
+When talking about Zapier, avoid these:
+
+- Sync (Zapier doesn't truly "sync" data between two apps)
+- Export (this implies that Zapier can tap into old data)
+
+When writing other content, whether or not it's about Zapier itself, avoid these:
+
+- Young, old, elderly, tween, or any other word describing someone's age
+- Crazy, insane, nuts, psycho, or similar words to describe a person
+- Any sort of profanity, even in a direct quote (let's keep it clean)
+
+Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask your teammates if you're unsure about a specific situation.
+
+### Tricky Terms
+
+Sometimes, grammar is negotiable. Here are some tricky words and phrases, and where we stand on styling them.
+
+- eCommerce
+- eBook
+- sign up (verb), signup (noun or adjective)
+- log in (verb), login (noun or adjective)
+- ok (not OK or okay)
+
+For more, search through our Word List.
+
+<!--Link this to the word list when everything is set up wih Jekyll-->
+
+### Zapier-Specific Terms
+
+<!--include notes about common Zapier terms here, and link over to the Zapier Terms page once Jekyll is set up-->
+
 ### Headlines
 
 For headline levels 1 and 2 (H1 and H2) we follow general title case guidelines: 
@@ -43,24 +76,5 @@ Keep the focus on the person who said the quote by placing their name directly a
 
 Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
 
-## Word List
 
-<!--this could maybe be its own page. But I kind of like the idea of having a fully searchable index of grammar-related items.-->
-
-Some words and phrases don't have clear-cut "right" styles. The key is to be consistent. Here's where we fall on a handful of tossup terms. 
-
-For a deeper breakdown of how to use Zapier-specific terms, read the Zapier Glossary.
-
-<!--add link to the Zapier glossary-->
-
-- eCommerce, not e-commerce or Ecommerce
-- eBook, not e-book or Ebook
-- sign up (verb), signup (noun or adjective)
-- set up (verb), setup (noun or adjective)
-- log in (verb), login (noun or adjective)
-- ok, not OK or okay
-- email, not Email or e-mail
-- Zap, never zap
-- Trigger / Action when used as a noun in relation to a Zap; trigger / action when used as a verb. Never Triggered. 
-- 
 
