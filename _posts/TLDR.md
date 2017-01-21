@@ -15,6 +15,15 @@ Good content is:
 
 ## Voice and Tone
 
+Zapier's voice is:
+
+- Encouraging but not pushy
+- Helpful but not domineering
+- Relaxed but not indifferent
+- Sharp but not cocky
+- Fun but not campy
+- Clever but not crude
+
 ## Writing Tips
 
 1. **Write Like You Talk.** Close your eyes and imagine and imagine saying this to someone, face-to-face. Be conversational. Ask questions. Use contractions. Read your work out-loud before you publish it.
