@@ -76,5 +76,29 @@ Keep the focus on the person who said the quote by placing their name directly a
 
 Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
 
+### Punctuation
+
+#### Hyphens
+
+#### Dashes
+
+#### Semicolons
+
+Try to avoid semicolons. They tend to be difficult to use well, and bring a more formal tone to your writing. 
+
+Write around them using dashes, commas, and coordinating conjunctions instead. 
+
+> He promised to send me the details today—and a summary showed up in my inbox at 5 p.m.
+
+Not
+
+> He promised to send me the details today; they showed up in my inbox at 5 p.m.
+
+Do use semicolons, though, to clarify a complex list of comma-separated items. For example:
+
+> For Elise, Rob, and Melanie, Trello fit perfectly; it gave them task-tracking, color-coded labels, and the ability to assign Cards to the right person.  
+
+Use semicolons sparingly. Try to edit around them. But when they're necessary, use semicolons as a more powerful version of a comma, which separates two related thoughts. 
+
 
 
