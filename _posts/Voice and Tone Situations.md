@@ -70,6 +70,8 @@ Filters let you choose if and when a Zap triggers based on conditions you set. B
 
 ### What the User is Thinking
 
+Zapier's always adding helpful features and content to their site. I wonder what they made this month.
+
 ### What the User is Feeling
 
 - Trust
@@ -77,7 +79,13 @@ Filters let you choose if and when a Zap triggers based on conditions you set. B
 
 ### Tips
 
+- Write like we—the Zapier team—are having a conversation with the reader. 
+- Keep your tone light. Ask questions, play with words, and help the reader feel smart.
+- This is about helping them, not helping ourselves. State exactly how they'll benefit by clicking that link.
+
 ### What Zapier says
+
+eCommerce is easy when your shop runs itself. Our brand new guide walks you though how to automate the nitty-gritty parts of eCommerce, so you can focus on the fun stuff. Ready to make sales in your sleep?
 
 # Updates Blog
 
@@ -105,7 +113,7 @@ This new Slack Trigger activates whenever you star a message, so you can send it
 
 ### What the User is Thinking
 
-Zapier always provides top-notch content about using apps at work.
+Zapier always provides top-notch advice about using apps at work.
 
 ### What the User is Feeling
 
@@ -115,7 +123,13 @@ Zapier always provides top-notch content about using apps at work.
 
 ### Tips
 
+- Use your teacher voice. Explain not just what, but why and how.
+- Write like an expert, but don't talk down to people. Treat our readers like the smart folks they are.
+- We put lots of research into every post—show it. Highlight where we talk to sources, test out apps, and generally do our homework.
+
 ### What Zapier says
+
+We use Slack every day to build Zapier across 9 countries. Here are the strategies that keep our conversations organized, plus tips on using them with your team.
 
 # Public Site (Homepage)
 
