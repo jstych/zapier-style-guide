@@ -42,17 +42,21 @@ zzzzzzzzzzzzzzz          zzzzzzzzzzzzzzz
 -->
 ### What resonates with new users
 
-Speaking specifically to their use case People like to know how people like them use Zapier. It's a powerful and very open product, and sometimes it's tough for users to determine a use case for that power.
-Brand-name apps and users People like to see that household names—like Facebook, Google, BuzzFeed, Fox, and Spotify—trust Zapier.
-Breadth of options People come to Zapier because we support integrations that our competitors and partners don't. The large pool of options helps people feel like we're always improving and that Zapier is here to stay.
-The human factor Automation seems kind of scary—it's the thing that's going to help robots steal our jobs (/end-sarcasm)! So we've found it's helpful to show the humans who are empowered by automation:
-Highlight that Zapier lets you automate the repetitive stuff, so you can focus on more creative, human tasks.
-Put a human face to the workflow when possible. Show not only the work that they're eliminating, but also what they have time for now.
-Feature the humans behind Zapier, too!
-What doesn't resonate with new users
+- Speaking specifically to their use case People like to know how people like them use Zapier. It's a powerful and very open product, and sometimes it's tough for users to determine a use case for that power.
+- Brand-name apps and users People like to see that household names—like Facebook, Google, BuzzFeed, Fox, and Spotify—trust Zapier.
+- Breadth of options People come to Zapier because we support integrations that our competitors and partners don't. The large pool of options helps people feel like we're always improving and that Zapier is here to stay.
+- The human factor Automation seems kind of scary—it's the thing that's going to help robots steal our jobs (/end-sarcasm)! So we've found it's helpful to show the humans who are empowered by automation:
+  - Highlight that Zapier lets you automate the repetitive stuff, so you can focus on more creative, human tasks.
+  - Put a human face to the workflow when possible. Show not only the work that they're eliminating, but also what they have time for now.
+  - Feature the humans behind Zapier, too!
 
-Technical language It's easy for Zapier to feel "too technical" fast, especially for someone who's uncomfortable with automation. We try to limit the number of technical and Zapier-specific terms we use for new users, like:
+
+<!--Turn the content below into pros that you can add to the list above-->
+
+## What doesn't resonate with new users
+
+- Technical language It's easy for Zapier to feel "too technical" fast, especially for someone who's uncomfortable with automation. We try to limit the number of technical and Zapier-specific terms we use for new users, like:
 Data In our testing, people were scared off by the word "Data". We try to use "Info" instead, or shoot for specifics (e.g. email addresses, to-dos, etc.) when possible.
-Zap Introducing "Zap" too early confuses people. We try to use "Workflow" in its place, and drop something like "...workflows called 'Zaps'" into the messaging.
-Trigger and Action These phrases are foreign to new users and make them feel out of the loop. We try to explain the concepts instead, like "Zapier watches for new info in one app, then routes it to another app of your choice."
-Apps and use cases that aren't their own If we need to explain both an app involved in a workflow and Zapier itself, we're fighting two battles on the education front. It's usually best to keep examples general—like email or SMS. The downside: This makes it tougher to illustrate the power of Zapier.
+- Zap Introducing "Zap" too early confuses people. We try to use "Workflow" in its place, and drop something like "...workflows called 'Zaps'" into the messaging.
+- Trigger and Action These phrases are foreign to new users and make them feel out of the loop. We try to explain the concepts instead, like "Zapier watches for new info in one app, then routes it to another app of your choice."
+- Apps and use cases that aren't their own If we need to explain both an app involved in a workflow and Zapier itself, we're fighting two battles on the education front. It's usually best to keep examples general—like email or SMS. The downside: This makes it tougher to illustrate the power of Zapier.
