@@ -22,7 +22,7 @@ Sometimes, grammar is negotiable. Here are some tricky words and phrases, and wh
 - eCommerce
 - eBook
 - sign up (verb), signup (noun or adjective)
-- log in (verb), login (noun or adjective)
+- log in (verb), login (noun or adjective) 
 - set up (verb), setup (noun or adjective)
 - ok (not OK or okay)
 
