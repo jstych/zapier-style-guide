@@ -40,16 +40,13 @@ zzzzzzzzzzzzzzz          zzzzzzzzzzzzzzz
       zzz       zzzzzzzz       zzz
                 zzzzzzzz
 -->
+
 ### What resonates with new users
 
-- Speaking specifically to their use case People like to know how people like them use Zapier. It's a powerful and very open product, and sometimes it's tough for users to determine a use case for that power.
-- Brand-name apps and users People like to see that household names—like Facebook, Google, BuzzFeed, Fox, and Spotify—trust Zapier.
-- Breadth of options People come to Zapier because we support integrations that our competitors and partners don't. The large pool of options helps people feel like we're always improving and that Zapier is here to stay.
-- The human factor Automation seems kind of scary—it's the thing that's going to help robots steal our jobs (/end-sarcasm)! So we've found it's helpful to show the humans who are empowered by automation:
-  - Highlight that Zapier lets you automate the repetitive stuff, so you can focus on more creative, human tasks.
-  - Put a human face to the workflow when possible. Show not only the work that they're eliminating, but also what they have time for now.
-  - Feature the humans behind Zapier, too!
-
+- **Specific, Relevant Use Cases**. Speak directly to your reader's needs. Figure out what problem they're trying to solve with Zapier, then help them solve it.
+- **Social Proof**. Assure readers that people like them rely on Zapier. Highlight partners and companies they know and trust. 
+- **Breadth of Options**. People come to Zapier because we support integrations that our competitors and partners don't. The large pool of options helps people feel like we're always improving and that Zapier is here to stay.
+- **The Human Factor**. Automation is a tool that gives humans more time to be human. Don't just highlight workflows—highlight the the people and businesses they help.
 
 <!--Turn the content below into pros that you can add to the list above-->
 
