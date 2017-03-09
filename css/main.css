@@ -15,18 +15,49 @@ img {
 	max-width: 100%;
 }
 
-h1, h2, h3, p, a {
+h1, h2, h3, h4 {
 	line-height: 1.6em;
 	color: #354147;
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', Helvetica, arial, sans-serif;
+	font-weight: 600;
 }
 
-a, p {
-	margin: 20px 0;
+p {
+	color: #5F6C72;
+	font-size: 16px;
+	line-height: 1.6875;
+	margin-bottom: 1em;
+	font-family: 'Open Sans', Helvetica, arial, sans-serif;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+h4 {
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 700;
 }
 
 a {
 	color: #499DF3;
+}
+
+p {
+	color: #5F6C72;
+	font-size: 16px;
+	line-height: 1.6875;
+	margin-bottom: 1em;
+	font-family: 'Open Sans', Helvetica, arial, sans-serif;
 }
 
 /********************************
@@ -69,7 +100,7 @@ HEADER
 	color: #ffffff;
 	font-size: 1.2em;
 	letter-spacing: 1.4px;
-	font-family: 'Open Sans', Helvetica, Arial, sans;
+	font-family: 'Open Sans', Helvetica, arial, sans-serif;
 	font-weight: normal;
 	margin: 0 auto;
 	max-width: 70%;
@@ -89,9 +120,10 @@ BODY
 ********************************/
 
 #site-body {
-	width: 100%;
+	width: 90%;
 	max-width: 1000px;
 	margin: 0 auto;
+	padding-top: 60px;
 }
 
 /********************************
@@ -104,11 +136,17 @@ footer {
 	margin: 0 auto;
 }
 
-/********************************
+/******************************************
 DESKTOP STYLES
-********************************/
+******************************************/
 
 @media screen and (min-width: 759px) {
+
+/********************************
+DESKTOP HEADER
+********************************/
+
+
 	#zapier-logo {
 		display: inline-block;
 		width: 30px;
@@ -120,6 +158,17 @@ DESKTOP STYLES
 	#site-title {
 		display: inline-block;
 	}
+
+/********************************
+DESKTOP BODY 
+********************************/
+
+	#site-body {
+		padding-top: 40px;
+	}
+
+/**********END DESKTOP STYLES************/
+
 }
 
 
