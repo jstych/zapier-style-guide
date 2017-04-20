@@ -1,8 +1,0 @@
-# Site settings
-title: Zapier Style Guide
-email: contact@zapier.com
-description: This is the Zapier style guide!
-
-# Build settings
-markdown: kramdown
-permalink: /:title
