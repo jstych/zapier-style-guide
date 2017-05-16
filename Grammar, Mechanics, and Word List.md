@@ -2,7 +2,7 @@
 
 Good grammar won't fix crummy writing, but it will help your ideas shine. At Zapier, we write to teach, inform, and empower our users. Grammar helps us accomplish those goals in the most efficient and clear way possible.
 
-The house rules covered here apply to all public-facing we make. These aren't rules for the sake of rules—the guidelines in this section give you the tools to write consistent content that helps our users.
+The house rules covered here apply to all public-facing content we make. These aren't rules for the sake of rules—the guidelines in this section give you the tools to write consistent content that helps our users.
 
 ## Basics
 
