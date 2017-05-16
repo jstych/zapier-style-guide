@@ -69,13 +69,16 @@ Is preferred to:
 
 Keep the focus on the person who said the quote by placing their name directly after it, before "says". Use "he", "she", or "they" when you're quoting the same person in quick succession and it's clear that the quote belongs to the same speaker. If the quotes are close enough, you can leave out the second "says" entirely.
 
-> "I think 'Rumours' is my favorite Fleetwood Mac album," Matt says. The record—released in 1977—took home Album of the Year honors at the Grammy Awards, and it's a staple in any music fan's library. "You can't listen to 'Second Hand News' without bobbing your head."
+> "'Rumours' is my favorite Fleetwood Mac album," Matt says. The Grammy-winning 1977 record is a staple in any music fan's library. "You can't listen to 'Second Hand News' without singing along."
 
 Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
 
 ### Abbreviations
 
-
+- CEO, CFO, CTO
+- RSS
+- API
+- HTML, CSS
 
 ### Capitalization
 
@@ -83,7 +86,7 @@ In text, capitalize the first word of every sentence, unless it's camel case (li
 
 Always capitalize proper nouns, like someone's name or a business name. 
 
-Never capitalize website names or email addresses. For example: 
+Never capitalize website names or email addresses. 
 
 > If you want to learn more about automation, visit zapier.com or send an email to contact@zapier.com.
 
@@ -101,17 +104,32 @@ Clear writing relies on simple words, so exclude jargon when you can. If you nee
 
 <!--Should there be a list of words that are examples of jargon?-->
 
-### Job Titles
+### Job titles and formal titles
 
-In general, lowercase job titles. 
+Lowercase occupational job titles, no matter where the title is placed in relation to the name.
 
-Reserve capitalized titles for formal situations, like Sir Paul McCartney, General Grievous, and Daenerys Targaryen, Princess of Dragonstone.
+> Kim Kadiyala, a marketer at Zapier, talked to astronaut Jeanette Epps about NASA's upcoming mission to Mercury.
+
+Capitalize common job titles that are acronyms, like CEO.
+
+Capitalize formal titles when they appear directly before someone's name:
+
+- Sir Paul McCartney
+- General Grievous
+- President Selina Meyer
+
+However, lowercase formal titles if they appear after the person's name:
+
+- Daenerys Targaryen, princess of Dragonstone
+- Anthony Garcia, mayor of Gotham
 
 ### Names
 
 Always use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
 
-> Dev Shah didn't set out to change the cupcake industry. ""
+> Dev Shah didn't set out to change the cupcake industry. "When someone told me 'Clash of the Cupcakes' was affecting global frosting markets, I was floored," he says. As the longtime host of the world's most popular baking show, Dev has launched countless cupcake careers. 
+
+If you're writing about multiple subjects with the same first name use the first initial of their last name to avoid confusion. 
 
 ### Numbers
 
