@@ -25,7 +25,7 @@ Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask yo
 
 ### Headlines
 
-For headline levels one and two (H1 and H2) we follow general title case guidelines: 
+**For headline levels one and two** (H1 and H2) we follow general title case guidelines: 
 
 - Capitalize the first and last word of a headline
 - Capitalize 
@@ -47,7 +47,7 @@ For headline levels one and two (H1 and H2) we follow general title case guideli
 
 When in doubt, use [this capitalization tool](https://headlinecapitalization.com/) to get a properly formatted version of your title.
 
-For headline levels three and below (H3, H4, H5) we follow sentence case rules:
+**For headline levels three and beyond** (H3, H4, H5) we follow sentence case rules:
 
 - Capitalize the first word of the headline
 - Capitalize the first word word after a colon, no matter what
@@ -93,14 +93,27 @@ Never capitalize website names or email addresses. For example:
 
 ### Jargon and industry phrases
 
+Know your audience. Avoid any words, phrases, or inside-jokes that they won't catch onto immediately. 
 
+Clear writing relies on simple words, so exclude jargon when you can. If you need to include a term or concept, make sure to define it for the reader.
+
+> "Veronica uses SQL—a programming language that helps you grab info from a database—to create colorful charts and graphs for the marketing team at Costello Industries."
+
+<!--Should there be a list of words that are examples of jargon?-->
+
+### Job Titles
+
+In general, lowercase job titles. 
+
+Reserve capitalized titles for formal situations, like Sir Paul McCartney, General Grievous, and Daenerys Targaryen, Princess of Dragonstone.
+
+### Names
+
+Always use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
+
+> Dev Shah didn't set out to change the cupcake industry. ""
 
 ### Numbers
-
-
-
-### Names and Titles
-
 
 
 ### Punctuation
@@ -148,8 +161,6 @@ Use semicolons sparingly. Try to edit around them. When they're necessary, use s
 
 
 #### Quotation marks
-
-
 
 
 
