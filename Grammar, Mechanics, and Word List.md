@@ -6,7 +6,7 @@ The house rules covered here apply to all public-facing we make. These aren't ru
 
 ## Basics
 
-
+<!--rehash the why we write section, and add a couple pieces about our voice and tone.-->
 
 ## Words to avoid
 
@@ -90,6 +90,17 @@ Never capitalize website names or email addresses.
 
 > If you want to learn more about automation, visit zapier.com or send an email to contact@zapier.com.
 
+### Contractions
+
+Use 'em. They help your writing sound friendly and more natural. If you're inclined to use a contraction like "we're" instead of "we are" when you read a sentence out loud, use it in your writing, too.
+
+Use an apostrophe to represent the letters we're removing from the contraction.
+
+- Isn't, the "o" in "is not" is replaced by an apostrophe
+- Y'all, the "ou" in "you all" is replaced by an apostrophe
+- '80s, the "19" in "1980s" is replaced by an apostrophe
+- Cookies 'n' cream, the "a" and "d" in "Cookies and cream" are both replaced by apostrophes
+
 ### Dates and times
 
 
@@ -110,9 +121,15 @@ Lowercase occupational job titles, no matter where the title is placed in relati
 
 > Kim Kadiyala, a marketer at Zapier, talked to astronaut Jeanette Epps about NASA's upcoming mission to Mercury.
 
+Other examples:
+
+- graphic designer Adam Kaplan
+- pharmacist Erin Kelley
+- lead engineer Bryan Helmig
+
 Capitalize common job titles that are acronyms, like CEO.
 
-Capitalize formal titles when they appear directly before someone's name:
+Capitalize formal titles—a title that someone was elected to, appointed to, or born into—when they appear directly before someone's name:
 
 - Sir Paul McCartney
 - General Grievous
@@ -122,6 +139,8 @@ However, lowercase formal titles if they appear after the person's name:
 
 - Daenerys Targaryen, princess of Dragonstone
 - Anthony Garcia, mayor of Gotham
+
+When in doubt, just move the title after the name and lowercase it.
 
 ### Names
 
@@ -133,6 +152,21 @@ If you're writing about multiple subjects with the same first name use the first
 
 ### Numbers
 
+Always use numerals in the following situations: 
+
+- Addresses. "102 Pike St., Seattle, Washington 98101"
+- Ages. "George Washington died at age 67.""
+- Big numbers. "3 billion", not "three billion" or "3,000,000,000"
+- Dates. "March 15", not "March fifteenth". "The '90s", not "the nineties"
+- Money. "$9.75", not "nine dollars and 75 cents"
+- Percentages. "80%" not "eighty percent"
+- Times. "5 p.m." and "6:30 a.m.", not "5 o'clock" or "six thirty". 
+  - *Exception: use "noon" and "midnight" instead of "12 p.m." and "12 a.m.", respectively.*
+
+Otherwise, write out numbers when they're less than 10.  
+
+> Wade ate three pints of cookies 'n' cream ice cream.
+> Chelsea created 12 Zaps in under an hour.
 
 ### Punctuation
 
