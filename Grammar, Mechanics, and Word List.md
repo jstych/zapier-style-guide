@@ -6,7 +6,7 @@ The house rules covered here apply to all public-facing we make. These aren't ru
 
 ## Basics
 
-
+<!--rehash the why we write section, and add a couple pieces about our voice and tone.-->
 
 ## Words to avoid
 
@@ -25,7 +25,7 @@ Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask yo
 
 ### Headlines
 
-For headline levels one and two (H1 and H2) we follow general title case guidelines: 
+**For headline levels one and two** (H1 and H2) we follow general title case guidelines: 
 
 - Capitalize the first and last word of a headline
 - Capitalize 
@@ -47,7 +47,7 @@ For headline levels one and two (H1 and H2) we follow general title case guideli
 
 When in doubt, use [this capitalization tool](https://headlinecapitalization.com/) to get a properly formatted version of your title.
 
-For headline levels three and below (H3, H4, H5) we follow sentence case rules:
+**For headline levels three and beyond** (H3, H4, H5) we follow sentence case rules:
 
 - Capitalize the first word of the headline
 - Capitalize the first word word after a colon, no matter what
@@ -69,13 +69,16 @@ Is preferred to:
 
 Keep the focus on the person who said the quote by placing their name directly after it, before "says". Use "he", "she", or "they" when you're quoting the same person in quick succession and it's clear that the quote belongs to the same speaker. If the quotes are close enough, you can leave out the second "says" entirely.
 
-> "I think 'Rumours' is my favorite Fleetwood Mac album," Matt says. The record—released in 1977—took home Album of the Year honors at the Grammy Awards, and it's a staple in any music fan's library. "You can't listen to 'Second Hand News' without bobbing your head."
+> "'Rumours' is my favorite Fleetwood Mac album," Matt says. The Grammy-winning 1977 record is a staple in any music fan's library. "You can't listen to 'Second Hand News' without singing along."
 
 Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
 
 ### Abbreviations
 
-
+- CEO, CFO, CTO
+- RSS
+- API
+- HTML, CSS
 
 ### Capitalization
 
@@ -83,9 +86,20 @@ In text, capitalize the first word of every sentence, unless it's camel case (li
 
 Always capitalize proper nouns, like someone's name or a business name. 
 
-Never capitalize website names or email addresses. For example: 
+Never capitalize website names or email addresses. 
 
 > If you want to learn more about automation, visit zapier.com or send an email to contact@zapier.com.
+
+### Contractions
+
+Use 'em. They help your writing sound friendly and more natural. If you're inclined to use a contraction like "we're" instead of "we are" when you read a sentence out loud, use it in your writing, too.
+
+Use an apostrophe to represent the letters we're removing from the contraction.
+
+- Isn't, the "o" in "is not" is replaced by an apostrophe
+- Y'all, the "ou" in "you all" is replaced by an apostrophe
+- '80s, the "19" in "1980s" is replaced by an apostrophe
+- Cookies 'n' cream, the "a" and "d" in "Cookies and cream" are both replaced by apostrophes
 
 ### Dates and times
 
@@ -93,15 +107,66 @@ Never capitalize website names or email addresses. For example:
 
 ### Jargon and industry phrases
 
+Know your audience. Avoid any words, phrases, or inside-jokes that they won't catch onto immediately. 
 
+Clear writing relies on simple words, so exclude jargon when you can. If you need to include a term or concept, make sure to define it for the reader.
+
+> "Veronica uses SQL—a programming language that helps you grab info from a database—to create colorful charts and graphs for the marketing team at Costello Industries."
+
+<!--Should there be a list of words that are examples of jargon?-->
+
+### Job titles and formal titles
+
+Lowercase occupational job titles, no matter where the title is placed in relation to the name.
+
+> Kim Kadiyala, a marketer at Zapier, talked to astronaut Jeanette Epps about NASA's upcoming mission to Mercury.
+
+Other examples:
+
+- graphic designer Adam Kaplan
+- pharmacist Erin Kelley
+- lead engineer Bryan Helmig
+
+Capitalize common job titles that are acronyms, like CEO.
+
+Capitalize formal titles—a title that someone was elected to, appointed to, or born into—when they appear directly before someone's name:
+
+- Sir Paul McCartney
+- General Grievous
+- President Selina Meyer
+
+However, lowercase formal titles if they appear after the person's name:
+
+- Daenerys Targaryen, princess of Dragonstone
+- Anthony Garcia, mayor of Gotham
+
+When in doubt, just move the title after the name and lowercase it.
+
+### Names
+
+Always use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
+
+> Dev Shah didn't set out to change the cupcake industry. "When someone told me 'Clash of the Cupcakes' was affecting global frosting markets, I was floored," he says. As the longtime host of the world's most popular baking show, Dev has launched countless cupcake careers. 
+
+If you're writing about multiple subjects with the same first name use the first initial of their last name to avoid confusion. 
 
 ### Numbers
 
+Always use numerals in the following situations: 
 
+- Addresses. "102 Pike St., Seattle, Washington 98101"
+- Ages. "George Washington died at age 67.""
+- Big numbers. "3 billion", not "three billion" or "3,000,000,000"
+- Dates. "March 15", not "March fifteenth". "The '90s", not "the nineties"
+- Money. "$9.75", not "nine dollars and 75 cents"
+- Percentages. "80%" not "eighty percent"
+- Times. "5 p.m." and "6:30 a.m.", not "5 o'clock" or "six thirty". 
+  - *Exception: use "noon" and "midnight" instead of "12 p.m." and "12 a.m.", respectively.*
 
-### Names and Titles
+Otherwise, write out numbers when they're less than 10.  
 
-
+> Wade ate three pints of cookies 'n' cream ice cream.
+> Chelsea created 12 Zaps in under an hour.
 
 ### Punctuation
 
@@ -148,8 +213,6 @@ Use semicolons sparingly. Try to edit around them. When they're necessary, use s
 
 
 #### Quotation marks
-
-
 
 
 
