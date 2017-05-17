@@ -73,18 +73,31 @@ Keep the focus on the person who said the quote by placing their name directly a
 
 Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
 
-### Abbreviations
+### Abbreviations and acronyms
+
+Avoid abbreviations and acronyms where you can. They confuse readers and make people stop and think before they continue reading. At worst, your reader won't understand the acronym you're using, and they'll need to go look it up.
+
+If you want to use an acronym, define it first and establish the acronym. Then you can use the acronym in subsequent mentions. 
+
+> Galactic Donuts runs all purchases through a point of sale (or POS) system.
+
+If the acronym is more widely used than the full version, use the acronym instead and don't worry about spelling the full version out. For example:
 
 - CEO, CFO, CTO
-- RSS
-- API
-- HTML, CSS
+- RSS, API, HTML, CSS
+- NASA, FBI, CIA
+- Scuba
+
+When "a" or "an" precedes an abbreviation or acronym, choose which one based on the *sound* of the abbreviation, not the first letter of the abbreviation.
+
+- An FBI agent, *eff-bee-eye*
+- A UFO flew by, *yoo-eff-oh*
 
 ### Capitalization
 
 In text, capitalize the first word of every sentence, unless it's camel case (like eCommerce or eBay). For headlines, use title case on H1s and H2s, and sentence case beyond that.
 
-Always capitalize proper nouns, like someone's name or a business name. 
+Capitalize proper nouns, like someone's name or a business name. 
 
 Never capitalize website names or email addresses. 
 
@@ -99,11 +112,14 @@ Use an apostrophe to represent the letters we're removing from the contraction.
 - Isn't, the "o" in "is not" is replaced by an apostrophe
 - Y'all, the "ou" in "you all" is replaced by an apostrophe
 - '80s, the "19" in "1980s" is replaced by an apostrophe
-- Cookies 'n' cream, the "a" and "d" in "Cookies and cream" are both replaced by apostrophes
 
 ### Dates and times
 
+Abbreviate when there are space constraints:
 
+- Fri., Oct. 13
+
+Don't abbreviate March, April, May, June, or July. They're short enough already.
 
 ### Jargon and industry phrases
 
@@ -144,7 +160,7 @@ When in doubt, just move the title after the name and lowercase it.
 
 ### Names
 
-Always use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
+Use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
 
 > Dev Shah didn't set out to change the cupcake industry. "When someone told me 'Clash of the Cupcakes' was affecting global frosting markets, I was floored," he says. As the longtime host of the world's most popular baking show, Dev has launched countless cupcake careers. 
 
@@ -167,6 +183,12 @@ Otherwise, write out numbers when they're less than 10.
 
 > Wade ate three pints of cookies 'n' cream ice cream.
 > Chelsea created 12 Zaps in under an hour.
+
+Numbers longer than three digits get commas: 
+
+- 591
+- 1,839
+- 525,600
 
 ### Punctuation
 
