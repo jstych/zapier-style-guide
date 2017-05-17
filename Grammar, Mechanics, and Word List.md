@@ -207,8 +207,6 @@ Use an apostrophe to make a letter plural, but not a number.
 - I got mostly A's and B's in high school.
 - The judges gave her performance 10s across the board.
 
-**Indicating the missing piece of a contraction.**
-
 #### Commas
 
 Use the Oxford comma (also called the serial comma). In lists of three or more items, always include a comma before the last item.
