@@ -23,6 +23,72 @@ Reference the [Conscious Style Guide](http://consciousstyleguide.com/) or ask yo
 
 ## Mechanics and Style
 
+### Abbreviations and acronyms
+
+Avoid abbreviations and acronyms where you can. They confuse readers and make people stop and think before they continue reading. At worst, your reader won't understand the acronym you're using, and they'll need to go look it up.
+
+If you want to use an acronym, define it first and establish the acronym. Then you can use the acronym in subsequent mentions. 
+
+> Galactic Donuts runs all purchases through a point of sale (or POS) system.
+
+If the acronym is more widely used than the full version, use the acronym instead and don't worry about spelling the full version out. For example:
+
+- CEO, CFO, CTO
+- RSS, API, HTML, CSS
+- NASA, FBI, CIA
+- Scuba
+
+When "a" or "an" precedes an abbreviation or acronym, choose which one based on the *sound* of the abbreviation, not the first letter of the abbreviation.
+
+- An FBI agent, *eff-bee-eye*
+- A UFO flew by, *yoo-eff-oh*
+
+### Capitalization
+
+In text, capitalize the first word of every sentence, unless it's camel case (like eCommerce or eBay). For headlines, use title case on H1s and H2s, and sentence case beyond that.
+
+Capitalize proper nouns, like someone's name or a business name. 
+
+Never capitalize website names or email addresses. 
+
+> If you want to learn more about automation, visit zapier.com or send an email to contact@zapier.com.
+
+<a id="contractions"></a>
+
+### Contractions
+
+Use 'em. They help your writing sound friendly and more natural. If you're inclined to use a contraction like "we're" instead of "we are" when you read a sentence out loud, use it in your writing, too.
+
+Use an apostrophe to represent the letters we're removing from the contraction.
+
+- Isn't, the "o" in "is not" is replaced by an apostrophe
+- Y'all, the "ou" in "you all" is replaced by an apostrophe
+- Cookies 'n' cream, the "a" and "d" in "Cookies and cream" are both replaced by apostrophes
+
+### Dates and times
+
+Spell out the day of the week and the month. Use a numeral for the day of the month. Don't add rd, th, or st to the end of your numeral. 
+
+Only include the year when it's necessary to frame a story or when the date is more than 6 months in the future.
+
+- On Thursday, August 10, we're hosting a webinar.
+- Her birthday is June 25.
+- We're organizing a meetup on Tuesday, July 16, 2019, for automation lovers.
+
+Abbreviate when there are space constraints:
+
+- Fri., Oct. 13
+- Aug. 5, 2018
+
+Don't abbreviate March, April, May, June, or July. They're short enough already.
+
+Abbreviate decades within the last 100 years:
+
+- In the '90s
+- In the 1870s
+
+Replace numbers you remove with an apostrophe. For '80s, the "19" in "1980s" is replaced by an apostrophe.
+
 ### Headlines
 
 **For headline levels one and two** (H1 and H2) we follow general title case guidelines: 
@@ -53,58 +119,6 @@ When in doubt, use [this capitalization tool](https://headlinecapitalization.com
 - Capitalize the first word word after a colon, no matter what
 - Capitalize titles and proper nouns
 
-### Quoting people and publications
-
-When you're quoting a person or publication in a piece of content, make sure that quote is accurately attributed. Use present tense (says, not said): 
-
-> "I love using Zapier to automate my work," Jimmy says.
-
-Try to introduce the quoted person before you quote them. This:
-
-> Selena, a manager at Galactic Donuts, uses Zapier to track orders. "It makes my life so much easier," she says.
-
-Is preferred to: 
-
-> "Zapier makes my life so much easier," Selena, a manager at Galactic Donuts, says.
-
-Keep the focus on the person who said the quote by placing their name directly after it, before "says". Use "he", "she", or "they" when you're quoting the same person in quick succession and it's clear that the quote belongs to the same speaker. If the quotes are close enough, you can leave out the second "says" entirely.
-
-> "'Rumours' is my favorite Fleetwood Mac album," Matt says. The Grammy-winning 1977 record is a staple in any music fan's library. "You can't listen to 'Second Hand News' without singing along."
-
-Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
-
-### Abbreviations
-
-- CEO, CFO, CTO
-- RSS
-- API
-- HTML, CSS
-
-### Capitalization
-
-In text, capitalize the first word of every sentence, unless it's camel case (like eCommerce or eBay). For headlines, use title case on H1s and H2s, and sentence case beyond that.
-
-Always capitalize proper nouns, like someone's name or a business name. 
-
-Never capitalize website names or email addresses. 
-
-> If you want to learn more about automation, visit zapier.com or send an email to contact@zapier.com.
-
-### Contractions
-
-Use 'em. They help your writing sound friendly and more natural. If you're inclined to use a contraction like "we're" instead of "we are" when you read a sentence out loud, use it in your writing, too.
-
-Use an apostrophe to represent the letters we're removing from the contraction.
-
-- Isn't, the "o" in "is not" is replaced by an apostrophe
-- Y'all, the "ou" in "you all" is replaced by an apostrophe
-- '80s, the "19" in "1980s" is replaced by an apostrophe
-- Cookies 'n' cream, the "a" and "d" in "Cookies and cream" are both replaced by apostrophes
-
-### Dates and times
-
-
-
 ### Jargon and industry phrases
 
 Know your audience. Avoid any words, phrases, or inside-jokes that they won't catch onto immediately. 
@@ -112,8 +126,6 @@ Know your audience. Avoid any words, phrases, or inside-jokes that they won't ca
 Clear writing relies on simple words, so exclude jargon when you can. If you need to include a term or concept, make sure to define it for the reader.
 
 > "Veronica uses SQL—a programming language that helps you grab info from a database—to create colorful charts and graphs for the marketing team at Costello Industries."
-
-<!--Should there be a list of words that are examples of jargon?-->
 
 ### Job titles and formal titles
 
@@ -144,7 +156,7 @@ When in doubt, just move the title after the name and lowercase it.
 
 ### Names
 
-Always use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
+Use a person's full name when you introduce them in your writing. After the first mention, use the person's first name only. 
 
 > Dev Shah didn't set out to change the cupcake industry. "When someone told me 'Clash of the Cupcakes' was affecting global frosting markets, I was floored," he says. As the longtime host of the world's most popular baking show, Dev has launched countless cupcake careers. 
 
@@ -168,11 +180,34 @@ Otherwise, write out numbers when they're less than 10.
 > Wade ate three pints of cookies 'n' cream ice cream.
 > Chelsea created 12 Zaps in under an hour.
 
+Numbers longer than three digits get commas: 
+
+- 591
+- 1,839
+- 525,600
+
 ### Punctuation
 
 #### Apostrophes
 
+Most of the time you'll use an apostrophe to demonstrate possession or to build a contraction. 
 
+Use an apostrophe to show a noun's possession of something:
+
+- Jill's team is working on that project.
+- Apple's new iPhone leaked last night.
+- He raves about Julius's design skills.
+
+If the noun ends in an "s", add an apostrophe and an s—like "Marcus's"—to the end of the noun to demonstrate possession. 
+
+For contractions, use an apostrophe in place of the letters you've left out. Read the [contractions section](#contractions) for more details.
+
+Use an apostrophe to make a letter plural, but not a number.
+
+- I got mostly A's and B's in high school.
+- The judges gave her performance 10s across the board.
+
+**Indicating the missing piece of a contraction.**
 
 #### Commas
 
@@ -210,11 +245,27 @@ Do use semicolons, though, to clarify a complex list of comma-separated items. F
 
 Use semicolons sparingly. Try to edit around them. When they're necessary, use semicolons as a more powerful version of a comma, which separates two related thoughts. 
 
-
-
 #### Quotation marks
 
+### Quoting people and publications
 
+When you're quoting a person or publication in a piece of content, make sure that quote is accurately attributed. Use present tense (says, not said): 
+
+> "I love using Zapier to automate my work," Jimmy says.
+
+Try to introduce the quoted person before you quote them. This:
+
+> Selena, a manager at Galactic Donuts, uses Zapier to track orders. "It makes my life so much easier," she says.
+
+Is preferred to: 
+
+> "Zapier makes my life so much easier," Selena, a manager at Galactic Donuts, says.
+
+Keep the focus on the person who said the quote by placing their name directly after it, before "says". Use "he", "she", or "they" when you're quoting the same person in quick succession and it's clear that the quote belongs to the same speaker. If the quotes are close enough, you can leave out the second "says" entirely.
+
+> "'Rumours' is my favorite Fleetwood Mac album," Matt says. The Grammy-winning 1977 record is a staple in any music fan's library. "You can't listen to 'Second Hand News' without singing along."
+
+Accurate quotes are important, but we also want to make our subjects look good. Feel free to edit out the "ums" and "uhs" from a direct quote. It's ok to tweak the grammar in a quote, but use caution not to change the quote's meaning. When in doubt, ask your subject for clarification or approval.
 
 ---
 
@@ -227,6 +278,7 @@ If you don't know, ask. When in doubt, skew towards understanding. If an app let
 ---
 
 <a id="writing-about-zapier">
+
 ## Writing About Zapier
 
 ### Zapier-specific words and terms
@@ -324,6 +376,8 @@ Words are listed with their proper capitalization. Capitalize words at the begin
 - step (not Step)
 - internet (not Internet)
 - website (not Website)
+- Task when referring to something that Zapier automated, task everywhere else
+- meet up (verb), meetup (noun)
 
 
 
