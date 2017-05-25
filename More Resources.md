@@ -15,6 +15,8 @@ Our voice, tone, and style guides were crafted on the foundation that other comm
 * [Buzzfeed's Style Guide](https://www.buzzfeed.com/emmyf/buzzfeed-style-guide)
 * [Tone Situations from MailChimp](http://voiceandtone.com/)
 * [MailChimp's Content Style Guide](http://styleguide.mailchimp.com/resources/further-reading/)
+* [Shopify's Content Style Guide](https://polaris.shopify.com/content/product-content#app)
+* [Help Scout's Brand Style Guide](http://style.helpscout.com/)
 
 ### On Inclusive Language
 
